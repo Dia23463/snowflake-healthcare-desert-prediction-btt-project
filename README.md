@@ -22,10 +22,13 @@ Secondary Goals:
 🧠 Methodology
 1. Data Acquisition & Preparation
 All datasets are sourced and stored in the Snowflake AI Data Cloud, including:
-1) CDC Social Vulnerability Index (SVI)
-2) Snowflake Marketplace Demographics
-3) Overture Places (healthcare, food access, transit)
-4) Supplemental environmental + socioeconomic datasets
+- CDC Social Vulnerability 
+- Index (SVI) dataset 
+- IRS ZIP-code–level data 
+- Sparksoft Healthcare Data package 
+- US population forecast by ZIP codes 
+- OVERTURE_MAPS__PLACES
+- 
 Key tasks:
 - Schema design & governance
 - Cleaning & STDID (census tract) alignment
